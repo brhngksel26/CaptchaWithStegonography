@@ -13,7 +13,7 @@ Kullanıcı islemlerini tamamladıktan sonra güvenlik sorusunu yanıtlayınca r
 Kontrolleri yapılmıs olur.
 
 
-Python Kütüphaneleri:
+Python Kütüphaneleri:  <br>
 	1)PyQt---->UI operations <br>
 	2)sys----->i/o operations <br>
 	3)hashlib->sha256 operations <br>
